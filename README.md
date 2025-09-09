@@ -31,4 +31,5 @@
 
 ## 📂 Files
 - [DSP_Group_Project.ipynb](DSP_Group_Project.ipynb) → Full code and analysis
-- (Report PDF coming soon)
+- - [Employee_Attrition_Report.pdf](Employee_Attrition_Report.pdf) → Written project report
+
